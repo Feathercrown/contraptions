@@ -1,0 +1,9 @@
+main: gmb.minecraft.contraptions.Main
+name: Contraptions
+version: 1.0
+author: Feathercrown
+description: A plugin that creates simple machines that can be assembled into larger, more complicated factories
+commands:
+  contraptions:
+    description: Allows players to see information about the plugin
+    usage: /contraptions
